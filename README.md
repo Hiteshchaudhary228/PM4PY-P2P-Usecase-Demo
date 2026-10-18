@@ -16,13 +16,25 @@ Commercial process mining platforms are powerful but often cost more than the sa
 It is not a replacement for enterprise platforms (real-time monitoring, ready-made ERP connectors, dashboards at scale). It is a low-cost way to prove value first.
 
 ## Screenshots
+### Overview
 
-| Frequency map | Performance map |
-|---|---|
-| ![Frequency DFG](images/original_frequency_dfg.png) | ![Performance DFG](images/original_performance_dfg.png) |
+<img width="1200" height="627" alt="1_overview" src="https://github.com/user-attachments/assets/78f80133-8df1-4291-bcf8-47b65ac6975e" />
 
-![Overview](images/1_overview.png)
-![Variants](images/4_variants.png)
+### Frequency map 
+
+<img width="1200" height="627" alt="2_frequency_map" src="https://github.com/user-attachments/assets/ed9ea36f-2d83-4a14-b7b9-2bdedc660f3d" />
+
+### Performance map
+
+<img width="1200" height="627" alt="3_performance_map" src="https://github.com/user-attachments/assets/80efa037-8f2e-454c-ae41-33703902ebea" />
+
+### Variants
+ 
+<img width="1200" height="627" alt="4_variants" src="https://github.com/user-attachments/assets/4616af1b-203d-4b85-83bc-acf4999de46f" />
+
+### Case Duration
+
+<img width="1200" height="627" alt="5_case_duration" src="https://github.com/user-attachments/assets/166a917c-ec37-4182-9615-81499ff99802" />
 
 ## Data model
 
