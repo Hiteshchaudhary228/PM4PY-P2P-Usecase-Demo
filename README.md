@@ -87,6 +87,4 @@ If Graphviz is not on PATH, set its location at the top of the report script (`D
 
 Python, pandas, pm4py, matplotlib, Graphviz
 
-## License
 
-Add your preferred license (for example MIT).
